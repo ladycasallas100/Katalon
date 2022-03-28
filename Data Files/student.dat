@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>student</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>d1a29ecc-7d0d-4585-bdb9-aac078c75642</dataFileGUID>
+   <dataSourceUrl>Data Files/dataStudent.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>true</isInternalPath>
+   <properties>
+      <entry>
+         <key>readAsString</key>
+         <value>true</value>
+      </entry>
+   </properties>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Hoja1</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
